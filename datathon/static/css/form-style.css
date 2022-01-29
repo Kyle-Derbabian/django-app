@@ -1,0 +1,46 @@
+form {
+    background-color:#ADD8E6;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-height: 100%;
+}
+
+#gender-form {
+    padding: 20px;
+    display: flex;
+    float: left;
+}
+
+#identity-form {
+    padding: 20px;
+    display: flex;
+    float: center;
+}
+
+#religion-form {
+    padding: 20px;
+    display: flex;
+    float: right;
+    margin-right: 20px;
+}
+
+#form-submit {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    float: center;
+}
+
+#map {
+    padding-left: 20px;
+    height: 700px;
+    width: 100%;
+    background-color: blue;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
